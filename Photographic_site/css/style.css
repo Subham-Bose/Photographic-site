@@ -1,4 +1,5 @@
 body{
+    
     height: auto;
     margin: 0;
     background-color: rgb(204, 203, 203);
@@ -12,6 +13,7 @@ main {
 #landing-container {
     background: white;
 }
+
 #landing-container{
     display: flex;
     height: 100vh;
