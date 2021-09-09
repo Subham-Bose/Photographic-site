@@ -1,5 +1,5 @@
 # Photographic-site
-###This is the first miniproject made by me while in Newton School.
+### This is the first miniproject made by me while in Newton School.
 Made this project by only using HTML and CSS.
 This is only a single page website and have three sections.
 * Home section- It is the introductory section which have the name of website and a link to contact us section,
